@@ -2,6 +2,7 @@
 import datetime
 import logging
 from collections import defaultdict
+from zk import ZK
 
 import pytz
 
